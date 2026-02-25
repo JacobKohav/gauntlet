@@ -1,5 +1,5 @@
 # 🏁 GAUNTLET Subnet
-# 🛡️ Classifier Adversarial Robustness Subnet
+## 🛡️ Classifier Adversarial Robustness Subnet
 
 *A Bittensor Subnet for Provable Classifier Robustness Under Attack*
 
