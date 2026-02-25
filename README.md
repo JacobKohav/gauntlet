@@ -484,29 +484,7 @@ We are building:
 
 ---
 
-# 9. 📦 Deliverables Overview
-
-### Proposal (this document)
-
-Complete subnet specification
-
-### 5–10 Minute Video (Planned)
-
-* Architecture walkthrough
-* Incentive game explanation
-* Simulation examples
-
-### Public Introduction Post
-
-Concise explanation for X
-
-### 10-Slide Pitch Deck
-
-Business-focused summary
-
----
-
-# 10. ✅ Closing Statement
+# 9. ✅ Closing Statement
 
 The Adversarial Robustness Subnet transforms adversarial ML from an academic benchmark into a live economic competition.
 
